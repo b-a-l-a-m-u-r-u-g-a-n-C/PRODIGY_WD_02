@@ -1,0 +1,29 @@
+body{
+    background-image: url(black-friday-sales-arrangement-with-copy-space.jpg);
+    background-size: cover;
+}
+
+.container{
+    border-radius: 10px;
+    width:500px;
+    margin-top: 270px;
+    box-shadow: 0 0 45px 12px gray;
+    padding-top: 10px;
+}
+
+h1{
+    color: gray;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#display{
+    font-size:30px;
+    font-family: Orbitron,sans-serif;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: gray;
+}
